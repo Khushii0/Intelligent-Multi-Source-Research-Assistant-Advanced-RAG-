@@ -1,0 +1,5 @@
+model,accuracy,latency_ms,parameters_b,memory_gb
+GPT-3.5,89,120,175,16
+Mistral 7B,86,70,7,6
+Llama2 13B,84,95,13,10
+DeepSeek,88,80,67,12
